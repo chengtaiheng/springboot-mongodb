@@ -1,0 +1,2 @@
+# springboot-mongodb
+这是一个简单的springboot和mongodb的整合
