@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: "mongodb://root:root@192.168.0.108:27017/chth_backupg?authSource=admin"
+  profiles:
+    active: debug
+server:
+  port: 8719
